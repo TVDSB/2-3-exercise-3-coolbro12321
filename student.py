@@ -8,7 +8,7 @@ def main():
     elif number%3==0 and number%5==0:
       print("fizzbuzz")
     else:
-      print(number))
+      print(number)
 
 if __name__ =='__main__':
     main()
